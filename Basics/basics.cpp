@@ -1,42 +1,40 @@
 // #include <iostream>
 // using namespace std;
-                                        // Basic Output
+// Basic Output
 // int main() {
 //     cout << " Hi im Ali";
 // }
 
 /*  int a = 4;
     double b = 3.3;
-    char c = 'b';    */
+    char c = 'b';
 
-
-
-
+    boolean(true or false)
+    bool pass = false;s
+ */
 
 #include <iostream>
 using namespace std;
 
-int main() {
-    
+int main()
+{
+
     int a, b;
     cout << "Enter the value of a: ";
-    cin >> a;                                                   //control structures
+    cin >> a; // control structures
     cout << "Enter the value of b: ";
     cin >> b;
 
-    if (a>b)
-    {
+    if (a > b)
         cout << "The value of a is greater than b";
-    }
     else
         cout << "The value of b is greater than a";
 
     int c, d;
-        cout << "\nEnter two Value u want the sum of: ";
-        cin >> c >> d;
-        cout << "The sum of two values is: "<< c + d;
+    cout << "\nEnter two Value u want the sum of: ";
+    cin >> c >> d;
+    cout << "The sum of two values is: " << c + d;
 
-
+    string name = "Khan";
+    cout << "\nMy name is " << name;
 }
-
-
