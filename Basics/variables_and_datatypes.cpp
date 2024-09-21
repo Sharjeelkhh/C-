@@ -1,6 +1,15 @@
 #include <iostream>
 using namespace std;
 
+namespace first
+{
+    int a = 6;
+}
+namespace second
+{
+    int a = 7;
+}
+
 int main()
 {
     // integer data type
@@ -33,4 +42,6 @@ int main()
     cout << "Boolean: " << isStudent << endl;
     cout << "String: " << name << endl;
     cout << "Constant: " << gravity << endl;
+    cout << "Namespace first: " << first::a << " Namespace first: " << second::a << endl;
+    return 0;
 }
