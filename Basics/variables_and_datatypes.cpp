@@ -23,10 +23,14 @@ int main()
     // string data type
     string name = "John Doe";
 
+    // constant variable
+    const int gravity = 9.8;
+
     // printing the variables
     cout << "Integer: " << a << endl;
     cout << "Double: " << pi << endl;
     cout << "Character: " << grade << endl;
     cout << "Boolean: " << isStudent << endl;
     cout << "String: " << name << endl;
+    cout << "Constant: " << gravity << endl;
 }
