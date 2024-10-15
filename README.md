@@ -41,5 +41,5 @@ The **Intermediate** folder includes more advanced concepts that build upon the 
 - Standard Template Library (STL)
 - Pointers and Dynamic Memory
 
-[Explore the Intermediate Folder](./intermediate)
+[Explore the Intermediate Folder](./Intermediate)
 
