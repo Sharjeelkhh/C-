@@ -36,3 +36,14 @@ int sub(int a, int b)
         c = b - a;
     return c;
 }
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int a = 55;
+    cout << float(a) << endl;
+    return 0;
+}
