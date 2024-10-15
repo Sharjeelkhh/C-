@@ -5,7 +5,7 @@ Welcome to my C++ Notes repository! 🎯 This repository contains organized note
 ## Table of Contents
 
 - [Basics](#basics)
-- [Intermediate](#intermediate)
+- [Intermediate](#Intermediate)
 
 ---
 
@@ -24,7 +24,7 @@ The **Basics** folder contains foundational concepts and simple C++ programs. If
 - Arrays
 - Pointers
 
-[Explore the Basics Folder](./basics)
+[Explore the Basics Folder](./Basics)
 
 ---
 
