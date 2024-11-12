@@ -6,6 +6,7 @@ Welcome to my C++ Notes repository! 🎯 This repository contains organized note
 
 - [Basics](#basics)
 - [Intermediate](#Intermediate)
+- [Projects](#Projects)
 
 ---
 
